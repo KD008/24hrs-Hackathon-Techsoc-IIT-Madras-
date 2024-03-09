@@ -2,4 +2,4 @@
 
 PS: https://techsociitm.notion.site/Participants-guide-c83133f589ba4a7db8078b0eae4a59df
 
-Implemented as well https://www.analyticsvidhya.com/blog/2022/01/youtube-summariser-mini-nlp-project/;  
+Reference for video captioning used: https://www.analyticsvidhya.com/blog/2022/01/youtube-summariser-mini-nlp-project/;  
