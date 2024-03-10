@@ -9,5 +9,3 @@ Competition 1: https://www.kaggle.com/competitions/ai-hackathon-round-1genre-cla
 
 Competition 2: https://www.kaggle.com/competitions/trailer-tales
 ![image](https://github.com/KD008/24hrs-Hackathon-Techsoc-IIT-Madras-/assets/60615641/625ee21c-24a5-4b35-a2d3-188b7d54ab06)
-
-Reference for video captioning used: https://www.analyticsvidhya.com/blog/2022/01/youtube-summariser-mini-nlp-project/;  
